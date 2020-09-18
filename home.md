@@ -1,41 +1,95 @@
-<!DOCTYPE html>
-<html>
-   <head>
-       <title>JavaJam Coffee House</title>
-       <link rel="stylesheet" href="javajam.css">
-       <meta charset="UTF-8">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   </head>
-   <body>
-       <div id="wrapper">
-       <header>
-           <h1>JavaJam Coffee House</h1>
-       </header>
-       <nav>
-           <ul>
-               <li><a href="index.html">Home</a></li>
-               <li><a href="menu.html">Menu</a></li>
-               <li><a href="music.html">Music</a></li>
-               <li><a href="jobs.html">Jobs</a></li>
-           </ul>
-       </nav>
-       <main>
-           <p>Following the winding road to JavaJam...</p>
-           <img class="floatright" src="windingroad.jpg" height="156" width="333" alt="The Winding Road">
-           <ul>
-               <li>Specialty Coffee and Tea</li>
-               <li>Bagels, Muffins, and Organic Snacks</li>
-               <li>Music and Poetry Readings</li>
-               <li>Open Mic Night</li>
-           </ul>
+home.html:
 
-           <div>
-               12312 Main Street<br>
-               Mountain Home, CA 93923<br>
-               <a id="mobile" href="tel:1-888-555-5555">1-888-555-5555</a>
-               <span id="desktop">1-888-555-5555</span><br><br>
-           </div>
-       </main>
-       </div>
-   </body>
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<title>JavaJam Coffee House Home</title>
+
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="javajam.css">
+
+<meta name="viewport" content="widtd=device-widtd, initial-scale=1.0">
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<header>
+
+<h1>JavaJam Coffee House</h1>
+
+</header>
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="menu.html">Menu</a></li>
+
+<li><a href="music.html">Music</a></li>
+
+<li><a href="jobs.html">Jobs</a></li>
+
+</ul>
+
+</nav>
+
+<main>
+
+<img src="abc.jpg" alt="JavaJam Coffee House" style="width:100%; height:300px;"/>
+
+<h2>Following the Winding Road to JavaJam</h2>
+
+<p>We're little out of the way, nut take a drive down Route 42 to JavaJam today! Indulge in our locally roasted free-trade coffee and ome made pastries. You'll feel rigt at ome at JavaJam!</p>
+
+<form action="javajam8.php" method="post">
+
+<table>
+
+<h3>JavaJam Coffee House Features:</h3>
+
+<ul>
+
+<li>Specialty Coffee and Tea</li>
+
+<li>Bagels, Muffins, and Organic Snacks</li>
+
+<li>Music and Poetry Readings</li>
+
+<li>Open Mic Night</li>
+
+</ul>
+
+<p>
+
+12345 Main Street<br>
+
+Mountain Home, CA 93923<br>
+
+<a href="#">888-555-5555</a> 888-555-5555<br>
+
+</p>
+
+</form>
+
+</main>
+
+<footer>
+
+Copyright &copy; 2016 JavaJam Coffee House<br>
+
+<a href="mailto:yourfirstname@yourlastname.com">yourfirstname@yourlastname.com</a>
+
+</footer>
+
+</body>
+
 </html>
