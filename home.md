@@ -84,9 +84,7 @@ Mountain Home, CA 93923<br>
 
 <footer>
 
-Copyright &copy; 2016 JavaJam Coffee House<br>
-
-<a href="mailto:yourfirstname@yourlastname.com">yourfirstname@yourlastname.com</a>
+Copyright &copy; 2020 JavaJam Coffee House<br>
 
 </footer>
 
