@@ -3,80 +3,106 @@ menu.html
 
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 
 <head>
 
-                <meta charset="UTF-8">
+<title>JavaJam Coffee House Menu</title>
 
-                <title>JavaJam Coffee House Menu</title>
+<meta charset="utf-8">
 
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="javajam1.css">
 
-                <link rel="stylesheet" href="javajam.css">
+<meta name="viewport" content="widtd=device-widtd, initial-scale=1.0">
 
 </head>
 
 <body>
 
-                <div id="wrapper">
+<div id="wrapper">
 
-                                <header>
+<header>
 
-                                                <h1>JavaJam Coffee House</h1>
+<h1>JavaJam Coffee House</h1>
 
-                                </header>
+</header>
 
-                                <nav>
+<nav>
 
-                                                <ul>
+<ul>
 
-                                                                <li><a href="index.html">Home</a></li>
+<li><a href="index.html">Home</a></li>
 
-                                                                <li><a href="menu.html">Menu</a></li>
+<li><a href="menu.html">Menu</a></li>
 
-                                                                <li><a href="music.html">Music</a></li>
+<li><a href="music.html">Music</a></li>
 
-                                                                <li><a href="jobs.html">Jobs</a></li>
+<li><a href="jobs.html">Jobs</a></li>
 
-                                                </ul>
+</ul>
 
-                                </nav>
+</nav>
 
-                                <main>
+<main>
 
-                                                <dl>
+<img src="abc.jpg" alt="JavaJam Coffee House" style="width:100%; height:300px;"/>
 
-                                                                <dt><strong>Just Java</strong></dt>
+<h2>Coffee at JavaJam</h2>
 
-                                                                <dd>Regular house blend, decaffinated coffee, or flavor of the day.<br>
+<form action="javajam8.php" method="post">
 
-                                                                                Endless Cup $2.00</dd>
+<table>
 
-                                                                <dt><strong>Cafe Au Lait</strong><dt>
+<h3>Just Java</h3>
 
-                                                                <dd>House blended coffee infused into a smooth, steamed milk.<br>
+<ul style="padding-left:100px;padding-left:100px; list-style-type:none;">
 
-                                                                                Single $2.00 Double $3.00</dd>
+<li>Regular house blend, decaffeinated coffee, or flavor of the day.</li>
 
-                                                                <dt><strong>Iced Cappucino</strong></dt>
+<li>Endless Cup $2.00</li>
 
-                                                                <dd>Sweetened espresso blended with icy-cold milk and served in chilled glass.<br>
+</ul>
 
-                                                                                Single $4.75 Double $5.75</dd>
+<h3>Cafe au Lait</h3>
 
-                                                </dl>
+<ul style="padding-left:100px;padding-left:100px; list-style-type:none;">
 
-                                </main>
+<li>House blended coffee infused into a smooth, steamed milk.</li>
 
-                                <footer>
+<li>Single $2.00 Double $3.00</li>
 
-                                                Copyright &copy; 2020 JavaJam Coffee House<br>
+</ul>
 
-                                            
-                                </footer>
+<h3>Iced Cappuccino</h3>
 
-                </div>
+<ul style="padding-left:100px;padding-left:100px; list-style-type:none;">
+
+<li>Sweetened espresso blended with icy-cold milk and served in a chilled glass.</li>
+
+<li>Single $4.75 Double $5.75</li>
+
+</ul>
+
+<p>
+
+12345 Main Street<br>
+
+Mountain Home, CA 93923<br>
+
+<a href="#">888-555-5555</a> 888-555-5555<br>
+
+</p>
+
+</form>
+
+</main>
+
+<footer>
+
+Copyright &copy; 2020 JavaJam Coffee House<br>
+
+
+</footer>
 
 </body>
 
