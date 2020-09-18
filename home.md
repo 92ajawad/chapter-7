@@ -70,7 +70,7 @@ home.html:
 
 <p>
 
-12312 Garrett Bay Road<br>
+12010 Garrett Bay Road<br>
 			Ellison Bay, WI 54210<br>
 			1-888-555-5555<br><br>
 
