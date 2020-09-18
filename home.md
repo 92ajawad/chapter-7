@@ -70,11 +70,9 @@ home.html:
 
 <p>
 
-12345 Main Street<br>
-
-Mountain Home, CA 93923<br>
-
-<a href="#">888-555-5555</a> 888-555-5555<br>
+12312 Garrett Bay Road<br>
+			Ellison Bay, WI 54210<br>
+			1-888-555-5555<br><br>
 
 </p>
 
